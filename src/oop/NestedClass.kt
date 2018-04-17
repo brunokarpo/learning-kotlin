@@ -12,6 +12,6 @@ class Outer {
 
 fun main(args: Array<String>) {
     println(Outer().mString)
-    println(Outer.NestedClass().mString)
+    println(Outer.NestedClass().mString) // look: I don't need to instance Outer to access NestedClass
     println(Outer.NestedClass().callInside())
 }
