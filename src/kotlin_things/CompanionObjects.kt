@@ -1,4 +1,4 @@
-package oop
+package kotlin_things
 
 class Person {
     val name: String = "Bruno"
@@ -11,7 +11,7 @@ class Person {
     companion object {
         val familyName: String = "Nogueira"
 
-        fun showFamilyName() = println("My family name is $familyName")
+        fun showFamilyName() = println("My family name is ${familyName}")
     }
 }
 

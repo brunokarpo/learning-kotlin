@@ -1,4 +1,4 @@
-package oop
+package kotlin_things
 
 class Outer2 {
     val mString = "Outside Nested class"

@@ -1,4 +1,4 @@
-package oop
+package kotlin_things
 
 fun String.removeFirstAndLastCharacter() = this.substring(1, this.length - 1)
 

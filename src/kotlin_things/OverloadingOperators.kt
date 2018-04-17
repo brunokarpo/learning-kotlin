@@ -1,4 +1,4 @@
-package oop
+package kotlin_things
 
 fun main(args: Array<String>) {
 
