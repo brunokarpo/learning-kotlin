@@ -1,3 +1,5 @@
+package collections
+
 fun main(args: Array<String>) {
 
     var myArrayList = ArrayList<String>()

@@ -1,3 +1,5 @@
+package collections
+
 fun main(args: Array<String>) {
     var mArray = Array<Int>(5){0}
 
